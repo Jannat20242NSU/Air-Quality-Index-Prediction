@@ -20,7 +20,7 @@ The dataset includes the following attributes:
 - **Duration and QC Name:** Duration of data collection and quality control status.
 
 ### Category Visualization
-![Air-Quality-Index-Prediction](images/Categories.png)
+![Air-Quality-Index-Prediction](Categories.png)
 
 ---
 
@@ -39,10 +39,10 @@ The dataset includes the following attributes:
 - This summary suggests that SVM, Decision Tree, and Random Forest are more suitable for this dataset, given their superior and consistent performance.
 
 ### Results Visualization
-![Air-Quality-Index-Prediction](images/Results.png)
+![Air-Quality-Index-Prediction](Results.png)
 
 ### Hyperparameters Visualization
-![Air-Quality-Index-Prediction](images/Hyperparameters.png)
+![Air-Quality-Index-Prediction](Hyperparameters.png)
 
 ---
 
