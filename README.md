@@ -19,6 +19,9 @@ The dataset includes the following attributes:
 - **Raw Concentration:** Unprocessed concentration values.
 - **Duration and QC Name:** Duration of data collection and quality control status.
 
+### Category Visualization
+![PM2.5 Concentration Trends](images/Categories.png)
+
 ---
 
 ## Tools and Libraries Used
@@ -34,6 +37,13 @@ The dataset includes the following attributes:
 - These models also demonstrated equivalent values for precision, recall, F1 score, and AUC score, indicating consistent and reliable performance across all evaluation metrics.
 - The K-Nearest Neighbor (KNN) model performed relatively poorly, with an accuracy, precision, recall, and F1 score of 0.838.
 - This summary suggests that SVM, Decision Tree, and Random Forest are more suitable for this dataset, given their superior and consistent performance.
+
+### Results Visualization
+![PM2.5 Concentration Trends](images/Results.png)
+
+### Hyperparameters Visualization
+![PM2.5 Concentration Trends](images/Hyperparameters.png)
+
 ---
 
 ## Contributors
