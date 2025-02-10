@@ -20,7 +20,7 @@ The dataset includes the following attributes:
 - **Duration and QC Name:** Duration of data collection and quality control status.
 
 ### Category Visualization
-![PM2.5 Concentration Trends](images/Categories.png)
+![Air-Quality-Index-Prediction](images/Categories.png)
 
 ---
 
@@ -39,10 +39,10 @@ The dataset includes the following attributes:
 - This summary suggests that SVM, Decision Tree, and Random Forest are more suitable for this dataset, given their superior and consistent performance.
 
 ### Results Visualization
-![PM2.5 Concentration Trends](images/Results.png)
+![Air-Quality-Index-Prediction](images/Results.png)
 
 ### Hyperparameters Visualization
-![PM2.5 Concentration Trends](images/Hyperparameters.png)
+![Air-Quality-Index-Prediction](images/Hyperparameters.png)
 
 ---
 
