@@ -1,4 +1,4 @@
-# PM2.5 Air Quality Analysis in Dhaka
+# Air Quality Analysis in Dhaka
 
 ## Project Overview
 This project analyzes PM2.5 air quality data for Dhaka, focusing on trends, preprocessing, and preparing data for machine learning models. The dataset contains hourly air quality measurements, including parameters like AQI (Air Quality Index), NowCast Concentration, and AQI Category, which are used to assess pollution levels.
